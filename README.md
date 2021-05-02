@@ -1,1 +1,1 @@
-# estratego
+Estratego Exemplo
